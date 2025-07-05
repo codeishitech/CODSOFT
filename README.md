@@ -1,15 +1,14 @@
 # CODSOFT
-<h1>Overview<h1>
+<h1>Overview</h1>
 Welcome to my CodSoft Internship repository!
 This repository contains all five tasks I completed during my Python Programming Internship at CodSoft. Each task showcases different aspects of Python development and problem-solving.
 
-Internship Details
-Internship Domain: Python Programming
-Organization: CodSoft
-Internship Type: Virtual Internship
-Duration: 10 June 2025 to 10 July 2025
-
-Status: Completed All Tasks
+<h2>Internship Details</h2>
+**Internship Domain**: Python Programming
+**Organization**: CodSoft
+**Internship Type**: Virtual Internship
+**Duration**: 10 June 2025 to 10 July 2025
+**Status**: Completed All Tasks
 
 Tasks Overview
  Task 1: To-Do List Application
